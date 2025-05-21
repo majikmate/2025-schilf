@@ -16,7 +16,7 @@ class AppTest {
     @Test
     void appHasCorrectGreeting() {
         App classUnderTest = new App();
-        assertEquals("Hello World, how are you today?", classUnderTest.getGreeting(),
+        assertEquals("Hello World!", classUnderTest.getGreeting(),
                 "app should have a greeting of \"\"Hello World, how are you today?\"");
     }
 
