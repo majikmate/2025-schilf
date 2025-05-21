@@ -5,7 +5,7 @@ package schilf;
 
 public class App {
     public String getGreeting() {
-        return "Hello World, how are you today?";
+        return "Hello World";
     }
 
     public static void main(String[] args) {
